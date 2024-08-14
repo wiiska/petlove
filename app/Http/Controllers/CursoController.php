@@ -12,7 +12,9 @@ class CursoController extends Controller
      */
     public function index()
     {
-        //
+        //25154156
+        dd("teste");
+
     }
 
     /**
